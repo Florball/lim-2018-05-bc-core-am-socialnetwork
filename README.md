@@ -167,7 +167,7 @@ Era un programa de liderazgo donde, hablas de varias cosas, de los problemas, po
 
 Sí, me gustaría comentarte que yo quisiera que mi mamá se uniera a un grupo donde reciba apoyo aunque aún no se ha animado a buscarlo.
 
-###Conclusiones de entrevistas realizadas:
+### Conclusiones de entrevistas realizadas:
 
 **Los pacientes**
 + La enfermedad tiene un gran impacto emocional y en algunos casos pueden desencadenar estados de depresión.
